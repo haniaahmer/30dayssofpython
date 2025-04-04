@@ -1,0 +1,8 @@
+a=int(input("enter a number a    "))
+b=int(input("enter a number b   "))
+print("remainder is   " , a%b)
+print("is a greater than b   " , a>b)
+print("is a less than b   " , a<b)
+print("äverage of a and b is   " , (a+b)/2)
+print("a raised to the power 2 is   " , a**2)	
+print("a raised to the power 2 is   " , a*a)	
